@@ -1,0 +1,17 @@
+:rice::rice::rice::apple::apple::apple::apple::apple::rice::rice::rice::rice:
+:rice::rice::apple::apple::apple::apple::apple::apple::apple::apple::apple::rice:
+:rice::rice::bread::bread::bread::scroll::scroll::bread::scroll::rice::rice::rice:
+:rice::bread::scroll::bread::scroll::scroll::scroll::bread::scroll::scroll::scroll::rice:
+:rice::bread::scroll::bread::bread::scroll::scroll::scroll::bread::scroll::scroll::scroll:
+:rice::bread::bread::scroll::scroll::scroll::scroll::bread::bread::bread::bread::rice:
+:rice::rice::rice::scroll::scroll::scroll::scroll::scroll::scroll::scroll::rice::rice:
+:rice::rice::apple::apple::cyclone::apple::apple::apple::apple::rice::rice::rice:
+:rice::apple::apple::apple::cyclone::apple::apple::cyclone::apple::apple::apple::rice:
+:apple::apple::apple::apple::cyclone::cyclone::cyclone::cyclone::apple::apple::apple::apple:
+:rice::rice::apple::cyclone::sunny::cyclone::cyclone::sunny::cyclone::apple::rice::rice:
+:rice::rice::rice::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::rice::rice::rice:
+:rice::rice::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::cyclone::rice::rice:
+:rice::rice::cyclone::cyclone::cyclone::rice::rice::cyclone::cyclone::cyclone::rice::rice:
+:rice::bread::bread::bread::rice::rice::rice::rice::bread::bread::bread::rice:
+:bread::bread::bread::bread::rice::rice::rice::rice::bread::bread::bread::bread:
+
